@@ -1,0 +1,16 @@
+body {
+  background-color: cornflowerblue;
+}
+#helloWorld {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+h1 {
+  font-family: fantasy;
+  color: cornflowerblue;
+  background-color: darkseagreen;
+  border-radius: 1rem;
+}
